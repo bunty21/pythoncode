@@ -10,9 +10,6 @@ print("Addition:", num1, "+", num2, "=", addition_result)
 subtraction_result = num1 - num2
 print("Subtraction:", num1, "-", num2, "=", subtraction_result)
 
-# Multiplication
-multiplication_result = num1 * num2
-print("Multiplication:", num1, "x", num2, "=", multiplication_result)
 
 # Division
 if num2 != 0:  # Avoid division by zero
