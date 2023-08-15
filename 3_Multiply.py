@@ -7,3 +7,5 @@ product_result = num1 * num2
 
 # Display the result
 print("The product of", num1, "and", num2, "is:", product_result)
+
+print("MADE BY FIRESHARK")
